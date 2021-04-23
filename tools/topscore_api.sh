@@ -1,3 +1,4 @@
+#!/bin/sh
 AUTH_URL="https://$1.usetopscore.com/api/oauth/server"
 client_id=$2
 client_secret=$3
